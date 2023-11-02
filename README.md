@@ -2,10 +2,10 @@
 
 ## Requirements
 
-1. [git](https://git-scm.com)
+1. [Git](https://git-scm.com)
 2. [GitHub account](https://github.com/signup)
 
-## Configuration of git CLI
+## Configuration of Git CLI
 
 1. Verify the installation success by running this command:
 
@@ -35,4 +35,19 @@
 
    ```sh
    git config --global user.email javaldez1642qc@student.fatima.edu.ph
+   ```
+
+## Local Setup
+
+1. Download or clone or this repository by running the command:
+
+   ```sh
+   git clone https://github.com/joaquinvaldezzz/git-demo.git
+   ```
+
+2. Navigate to the folder using terminal.
+3. Verify the proper functioning of your Git CLI:
+
+   ```sh
+   git status
    ```
