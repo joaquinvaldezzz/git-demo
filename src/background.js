@@ -1,5 +1,5 @@
 module.exports = {
-"variable": {},
+  variable: {},
 
-          hello: {},
+  hello: {},
 }
