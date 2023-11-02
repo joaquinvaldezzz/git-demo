@@ -1,0 +1,15 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "John Joaquin A. Valdez",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
